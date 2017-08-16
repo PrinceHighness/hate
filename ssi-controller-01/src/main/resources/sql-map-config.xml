@@ -20,5 +20,6 @@
 	<sqlMap resource="mapper/user.xml" />
 	<sqlMap resource="mapper/role.xml" />
 	<sqlMap resource="mapper/menu.xml" />
+	<sqlMap resource="mapper/notice.xml" />
 	
 </sqlMapConfig>
