@@ -1,0 +1,6 @@
+[{Id:1, Name:"系统管理", Desc:"lala"},
+                      {Id:2, Name:"用户管理", Desc:"lala", ParentId:1},
+                      {Id:3, Name:"角色管理", Desc:"lala", ParentId:1},
+                      {Id:4, Name:"权限管理", Desc:"lala", ParentId:1},
+                      {Id:5, Name:"报表中心", Desc:"lala"},
+                      {Id:6, Name:"报表管理", Desc:"lala", ParentId:5},]
